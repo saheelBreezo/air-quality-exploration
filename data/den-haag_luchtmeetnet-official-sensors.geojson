@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "den-haag_luchtmeetnet-official-sensors",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "type": "Municipal", "components": [ "NO", "NO2", "O3", "PM10", "PM25" ], "municipality": "'s-Gravenhage", "url": "", "province": null, "organisation": "RIVM", "location": "Den Haag-Rebecquestraat", "year_start": "", "description": { "NL": "Den Haag-Rebecquestraat", "EN": "Den Haag-Rebecquestraat" }, "meetlocatie_id": "NL10404" }, "geometry": { "type": "Point", "coordinates": [ 79728.678695787340985, 454888.151595862873364 ] } },
+{ "type": "Feature", "properties": { "type": "Traffic", "components": [ "NO", "PM10", "NO2" ], "municipality": "'s-Gravenhage", "url": "", "province": null, "organisation": "RIVM", "location": "Den Haag-Amsterdamse Veerkade", "year_start": "", "description": { "NL": "Den Haag-Amsterdamse Veerkade", "EN": "Den Haag-Amsterdamse Veerkade" }, "meetlocatie_id": "NL10445" }, "geometry": { "type": "Point", "coordinates": [ 81554.621894067531684, 454629.752475550805684 ] } },
+{ "type": "Feature", "properties": { "type": "Municipal", "components": [ "NO", "NO2", "O3", "PM10" ], "municipality": "'s-Gravenhage", "url": "", "province": null, "organisation": "RIVM", "location": "Den Haag-Bleriotlaan", "year_start": "", "description": { "NL": "Den Haag-Bleriotlaan", "EN": "Den Haag-Bleriotlaan" }, "meetlocatie_id": "NL10446" }, "geometry": { "type": "Point", "coordinates": [ 84480.138855213052011, 450576.268195507640485 ] } },
+{ "type": "Feature", "properties": { "type": "Traffic", "components": [ "NO2", "NO", "PM10", "NOx", "O3", "PM2.5", "PM25" ], "municipality": "'s-Gravenhage", "url": null, "province": null, "organisation": "RIVM", "location": "Den Haag-Neherkade", "year_start": "2022", "description": { "NL": "Den Haag - Neherkade", "EN": "Nieuw RIVM station" }, "meetlocatie_id": "NL10450" }, "geometry": { "type": "Point", "coordinates": [ 81717.747612913779449, 453232.633412092167418 ] } }
+]
+}

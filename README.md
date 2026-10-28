@@ -9,7 +9,7 @@ Although air quality across Europe has improved over recent decades, air polluti
 ## Project Objective
 
 <p align="center">
-  <img src="Urban Air Quality Sensor Optimization Workflow.png" width="750" alt="Urban Air Quality Sensor Optimization Workflow">
+  <img src="data/Urban Air Quality Sensor Optimization Workflow.png" width="750" alt="Urban Air Quality Sensor Optimization Workflow">
 </p>
 
 This project assesses urban air quality in **The Hague, Netherlands**, using observations from official monitoring stations and community-based air quality sensors.
