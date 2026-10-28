@@ -8,6 +8,10 @@ Although air quality across Europe has improved over recent decades, air polluti
 
 ## Project Objective
 
+<div style="text-align: center;">
+    <img src="Urban Air Quality Sensor Optimization Workflow.png" width="750" height="500">
+</div>
+
 This project assesses urban air quality in **The Hague, Netherlands**, using observations from official monitoring stations and community-based air quality sensors.
 
 The analysis focuses on evaluating the spatial distribution and reliability of available measurements, identifying gaps in the existing monitoring network, and proposing an optimized sensor placement strategy.
@@ -20,6 +24,4 @@ The project addresses three main objectives:
 2. **Sensor reliability assessment:** Compare community sensor measurements with reference monitoring stations to evaluate their consistency and reliability.
 3. **Monitoring network optimization:** Identify suitable locations for additional sensors to improve spatial coverage, prioritizing areas surrounding schools.
 
-<div style="text-align: center;">
-    <img src="Urban Air Quality Sensor Optimization Workflow.png" width="750" height="500">
-</div>
+
