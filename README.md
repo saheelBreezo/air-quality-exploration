@@ -19,3 +19,7 @@ The project addresses three main objectives:
 1. **Air quality assessment:** Analyse spatial and temporal variations in air quality using official monitoring stations and community sensor observations.
 2. **Sensor reliability assessment:** Compare community sensor measurements with reference monitoring stations to evaluate their consistency and reliability.
 3. **Monitoring network optimization:** Identify suitable locations for additional sensors to improve spatial coverage, prioritizing areas surrounding schools.
+
+<div style="text-align: center;">
+    <img src="Urban Air Quality Sensor Optimization Workflow.png" width="750" height="500">
+</div>
