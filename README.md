@@ -1,31 +1,25 @@
-# Air Quality Assessment for Dan Hague
+# Urban Air Quality Assessment and Sensor Network Optimization in The Hague
 
-Air pollution poses significant risks to human health and the environment. It contributes to
-numerous respiratory and cardiovascular diseases, reduces quality of life, and leads to
-preventable deaths. Fine particulate matter (PM2.5) is the primary pollutant of concern,
-representing the greatest health risk. These particles are often formed in the atmosphere
-through complex reactions of gaseous oxides, such as sulfur and nitrogen oxides, which are
-primarily emitted from domestic heating, industrial activities, and road transport.
+## Background
 
-Although air quality in Europe has improved over the past decade, air pollution remains the
-leading environmental health hazard in the region. Cities in the Netherlands are no exception.
-According to the European Environment Agency (EEA) 2023 report, the primary contributors
-to particulate matter pollution in the Netherlands are the residential, commercial, and
-institutional sectors, followed by manufacturing, extractive industries, and road transport.
-Research estimates an average reduction in life expectancy of 6 to 12 months due to air
-pollution in the Netherlands (EEA, 2007).
+Air pollution poses significant risks to human health and the environment, contributing to respiratory and cardiovascular diseases, reduced quality of life, and premature mortality. Fine particulate matter (PM₂.₅) is a major pollutant of concern because its small particle size allows it to penetrate deep into the respiratory system. PM₂.₅ can be emitted directly from sources such as road transport, residential heating, and industrial activities, or formed through atmospheric reactions involving precursor gases, including sulfur dioxide and nitrogen oxides.
 
-In 2023, cities such as Waalwijk, The Hague, Oirschot, and Mijnsheerenland were among the
-most polluted in the Netherlands, with PM2.5 levels exceeding 2–3 times the acceptable
-thresholds for much of the year. Conversely, cities like Groningen, Munnikeijl, and
-Wieringerwerf enjoyed relatively clean air throughout the year. Air quality in the Netherlands
-is monitored continuously at approximately 100 locations by organizations such as the
-National Institute for Public Health and the Environment (RIVM), the GGD Amsterdam, and
-DCMR Rotterdam. In addition to these 24/7 monitoring stations, non-continuous mobile
-sensors, known as community sensors, are also deployed through platforms like the Samen
-Meten Data Portal.
+Although air quality across Europe has improved over recent decades, air pollution remains a major environmental health concern. The Netherlands is no exception. According to the European Environment Agency (EEA), residential, commercial, and institutional activities, manufacturing and extractive industries, and road transport are important contributors to particulate matter emissions in the country. Earlier research estimated that exposure to air pollution could reduce average life expectancy in the Netherlands by approximately 6–12 months (EEA, 2007).
 
-This report evaluates the air quality of one Dutch city using data from both official monitoring
-stations and community-based sensors. It assesses the reliability of these measurements and
-proposes an optimized layout plan for sensor placement to maximize coverage, with a
-particular focus on monitoring air quality around schools.
+Air quality varies considerably across Dutch cities and regions. In 2023, locations such as Waalwijk, The Hague, Oirschot, and Mijnsheerenland recorded elevated PM₂.₅ concentrations, while Groningen, Munnikezijl, and Wieringerwerf generally experienced lower concentrations. These spatial differences highlight the importance of monitoring air pollution at both regional and local scales.
+
+Air quality in the Netherlands is monitored through a nationwide network of official monitoring stations operated by organizations such as the National Institute for Public Health and the Environment (RIVM), GGD Amsterdam, and DCMR Rotterdam. These stations provide continuous, quality-controlled measurements of atmospheric pollutants. In addition, community-operated, low-cost sensors contribute supplementary observations through initiatives such as the *Samen Meten* data portal. Although these sensors can improve spatial coverage, their measurements may be affected by differences in calibration, sensor quality, and environmental conditions.
+
+## Project Objective
+
+This project assesses urban air quality in **The Hague, Netherlands**, using observations from official monitoring stations and community-based air quality sensors.
+
+The analysis focuses on evaluating the spatial distribution and reliability of available measurements, identifying gaps in the existing monitoring network, and proposing an optimized sensor placement strategy.
+
+Particular attention is given to **schools and their surrounding areas**, where improved monitoring coverage could support a better understanding of local air pollution exposure.
+
+The project addresses three main objectives:
+
+1. **Air quality assessment:** Analyse spatial and temporal variations in air quality using official monitoring stations and community sensor observations.
+2. **Sensor reliability assessment:** Compare community sensor measurements with reference monitoring stations to evaluate their consistency and reliability.
+3. **Monitoring network optimization:** Identify suitable locations for additional sensors to improve spatial coverage, prioritizing areas surrounding schools.
